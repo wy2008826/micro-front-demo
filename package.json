@@ -1,0 +1,25 @@
+{
+  "name": "micro-front-demo",
+  "version": "1.0.0",
+  "description": "微前端基座项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wy2008826/micro-front-demo.git"
+  },
+  "keywords": [
+    "micro-front"
+  ],
+  "author": "wy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wy2008826/micro-front-demo/issues"
+  },
+  "homepage": "https://github.com/wy2008826/micro-front-demo#readme",
+  "devDependencies": {
+    "webpack": "^5.52.1"
+  }
+}
